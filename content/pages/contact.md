@@ -1,11 +1,13 @@
 ---
 isPage: true
 templateKey: contact-page
-title: contact
+title: Contact
 heroTitle: SUPPORT
-heroSubtitle: We’re here to help! Find out how to access resources, learn about costs, troubleshoot issues, and get answers to questions.
-heroIsVideo: false
+heroSubtitle: >-
+  We’re here to help! Find out how to access resources, learn about costs,
+  troubleshoot issues, and get answers to questions.
 heroImage: /images/included/helping_hand_hero/
+heroIsVideo: false
 ---
 # Support
 
